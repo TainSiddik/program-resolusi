@@ -5,3 +5,5 @@ Project Belajar
 -Belajar Freamwork PHP
 -Belajar Code Idnigter
 -Belajar Laravel
+-Belajar Java Script
+
