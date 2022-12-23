@@ -4,3 +4,4 @@ Project Belajar
 -Belajar Boostrap
 -Belajar Freamwork PHP
 -Belajar Code Idnigter
+-Belajar Laravel
